@@ -1,2 +1,2 @@
-# alz-repo-tf
+# alz-sync-tf
 Testing repo
